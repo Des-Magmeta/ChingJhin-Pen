@@ -40,9 +40,10 @@ An open source CJK font devired from Fontworks' Klee One.
 
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体（见[开发者 GitHub 主页](https://github.com/fontworks-fonts/)）；  
 - [白易](https://github.com/yi-bai)开发的网站[字统网](https://zi.tools)提供各地区标准字形参考；  
-- [LXGW](https://github.com/lxgw) 提供中国大陆标准字型、韩文部分字型；
-- [ButTaiwan](https://github.com/ButTaiwan) 提供台湾标准字型；
-- [ItMarki](https://github.com/ItMarki) 提供香港标准字型；
+- [Shs-cid](https://github.com/NightFurySL2001/shs-cid) 提供思源字体映射参考；  
+- [LXGW](https://github.com/lxgw) 提供中国大陆标准字型、韩文部分字型；  
+- [ButTaiwan](https://github.com/ButTaiwan) 提供台湾标准字型；  
+- [ItMarki](https://github.com/ItMarki) 提供香港标准字型；  
 - [Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti) 提供相关字型。
   
 ## Stargazers over time 
