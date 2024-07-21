@@ -1,4 +1,4 @@
-# ChingJhin ManuPen | 青衿楷  
+# ChingJhin Manupen | 青衿楷  
 An open source CJK font devired from Fontworks' Klee One.
 
 ## Introduction / 项目简介
@@ -9,9 +9,9 @@ An open source CJK font devired from Fontworks' Klee One.
 
 我们希望能够制作出一个类似于思源黑体、思源宋体那样的大字符集和字形整合兼备的字体，为此本项目诞生了。
 
-青衿楷是一套 TrueType 泛中日韩字体，支持四种不同的东亚语言（简体中文、繁体中文、日文和韩文），7 种粗细类型中的每一种都有约 5 万个字形，可共同呈现一致的视觉美感。该字体还包含多个西文字形，支持拉丁语、希腊语和西里尔文脚本，这些字形一部分来源于 Klee One，一部分来源于霞鹜文楷以及其他的衍生字体。
+青衿楷是一套 TrueType 泛中日韩字体，支持四种不同的东亚语言（简体中文、繁体中文、日文和韩文），其中，繁体中文又分为台湾繁体和香港繁体。5 种粗细类型中的每一种都有约 5 万个字形，可共同呈现一致的视觉美感。该字体还包含多个西文字形，支持拉丁语、希腊语和西里尔文文本，这些字形一部分来源于 Klee One，一部分来源于霞鹜文楷以及其他的衍生字体。
 
-在有些情况下，基于同一个原始表意文字的字可能有多达四个区域差异化的字形设计。该项目涵盖所有这些字形变体并且精心地设计了这些区域化字形。您只需选择相应语言特定的字体或相应的语言标签，正确的字形变体即可设置成功。
+在有些情况下，基于同一个原始表意文字的字可能有多达五个区域差异化的字形设计。该项目涵盖所有这些字形变体并且精心地设计了这些区域化字形。在网页／软件支持字形变体的情况下，您只需选择相应语言特定的字体或相应的语言标签，正确的字形变体即可设置成功。
 
 ## Authorization / 授权信息
 
@@ -40,7 +40,7 @@ An open source CJK font devired from Fontworks' Klee One.
 
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体（见[开发者 GitHub 主页](https://github.com/fontworks-fonts/)）；  
 - [白易](https://github.com/yi-bai)开发的网站[字统网](https://zi.tools)提供各地区标准字形参考；  
-- [LXGW](https://github.com/lxgw)提供中国大陆标准字型、韩文字型；
+- [LXGW](https://github.com/lxgw) 提供中国大陆标准字型、韩文部分字型；
 - [ButTaiwan](https://github.com/ButTaiwan) 提供台湾标准字型；
 - [ItMarki](https://github.com/ItMarki) 提供香港标准字型；
 - [Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti) 提供相关字型。
