@@ -45,7 +45,3 @@ An open source CJK font devired from Fontworks' Klee One.
 - [ButTaiwan](https://github.com/ButTaiwan) 提供台湾标准字型；  
 - [ItMarki](https://github.com/ItMarki) 提供香港标准字型；  
 - [Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti) 提供相关字型。
-  
-## Stargazers over time 
-  
- [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChingJhin-ManuPen.svg)](https://starchart.cc/Des-Magmeta/ChingJhin-ManuPen)
