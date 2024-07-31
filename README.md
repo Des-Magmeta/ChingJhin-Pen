@@ -48,4 +48,4 @@ An open source CJK font devired from Fontworks' Klee One.
   
 ## Stargazers over time 
   
- [![Stargazers over time](https://starchart.cc/Des-Magmeta/PlanKai.svg)](https://starchart.cc/Des-Magmeta/ChingJhin-ManuPen)
+ [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChingJhin-ManuPen.svg)](https://starchart.cc/Des-Magmeta/ChingJhin-ManuPen)
