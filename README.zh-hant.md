@@ -25,7 +25,7 @@ An open source CJK font devired from Fontworks' Klee One.
 
 ### Limit / 限制  
 
-- 在製作衍生字體時，字體名稱不可使用原有字體的「保留名稱」。本字體保留名稱
+- 在製作衍生字型時，其名稱不可使用原有字型的「保留名稱」。此字型保留名稱
 <span lang="zh-cn">「青衿楷」</span>
 <span lang="zh-tw">「青衿楷」</span>
 <span lang="ja-jp">「セイキン楷書」</span>「Ching Jhin Pen」，基於此字型二次衍生的專案，名稱中不可出現保留名稱
@@ -33,14 +33,14 @@ An open source CJK font devired from Fontworks' Klee One.
 <span lang="zh-tw">「青衿楷」</span>
 <span lang="ja-jp">「セイキン楷書」</span>
 或「Ching Jhin Pen」；而在沒有對字型源代碼進行修改的情況下，重新編譯出來的字型，可以繼續使用此字型的保留名稱。
-- 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 許可與條件中第一條的規定， **禁止單獨出售字體檔(OTF/TTF 檔)的行為。**
+- 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 許可與條件中第一條的規定， **禁止單獨出售字型檔(OTF/TTF 檔)的行為。**
 - 該字體不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授權許可下發行。
 
 ## Acknowledgement / 鳴謝
 
-- [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字體（見[開發者 GitHub 主頁](https://github.com/fontworks-fonts/)）；  
+- [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型（見[開發者 GitHub 主頁](https://github.com/fontworks-fonts/)）；  
 - [白易](https://github.com/yi-bai)開發的網站[字統網](https://zi.tools)提供各地區標準字形參考；  
-- [Shs-cid](https://github.com/NightFurySL2001/shs-cid) 提供思源字體映射參考；  
+- [Shs-cid](https://github.com/NightFurySL2001/shs-cid) 提供思源黑體、思源宋體映射參考；  
 - [LXGW](https://github.com/lxgw) 提供中國大陸標準字型、韓文部分字型；  
 - [ButTaiwan](https://github.com/ButTaiwan) 提供臺灣標準字型；  
 - [ItMarki](https://github.com/ItMarki) 提供香港標準字型；  
