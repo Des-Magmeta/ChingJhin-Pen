@@ -1,4 +1,4 @@
-# ChingJhin Manupen | 青衿楷  
+# ChingJhin Pen | 青衿楷  
 An open source CJK font devired from Fontworks' Klee One.
 
 ## Introduction / 项目简介
